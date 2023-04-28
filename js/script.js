@@ -58,7 +58,7 @@ $(document).ready(function(){
 
             Swal.fire({
                 icon: 'success',
-                title: 'You Found brooo',
+                title: 'Congratulations! You found color',
               })
 
         }else{
